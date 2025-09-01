@@ -14,9 +14,8 @@
 
 ### 全书章节
 
-**在线阅读**：[Build a Large Language Model (From Scratch)  中文版](https://skindhu.github.io/Build-A-Large-Language-Model-CN/)
-
-+ [第一章：理解大语言模型](https://skindhu.github.io/Build-A-Large-Language-Model-CN/#/./cn-Book/1.理解大语言模型.md)
+**在线阅读**：
++ [第一章：大模型应用的核心技术与分类](https://njuigod.github.io/review_of_LLM_Application_Technologies/#/./cn-book/1.大模型应用的核心技术与分类.md)
 + [第二章：处理文本数据](https://skindhu.github.io/Build-A-Large-Language-Model-CN/#/./cn-Book/2.处理文本数据.md)
 + [第三章：实现注意力机制](https://skindhu.github.io/Build-A-Large-Language-Model-CN/#/./cn-Book/3.实现注意力机制.md)
 + [第四章：从零开始实现一个用于文本生成的 GPT 模型](https://skindhu.github.io/Build-A-Large-Language-Model-CN/#/./cn-Book/4.从零开始实现一个用于文本生成的%20GPT%20模型.md)
